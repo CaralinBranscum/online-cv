@@ -206,7 +206,7 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Selected Publications
     #intro: |
       #You can list your publications in this section. Lorem ipsum dolor sit
       #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -217,15 +217,48 @@ publications:
         authors: Branscum, C., Richards, T.N., & Behre, K. 
         conference: 'Journal of Interpersonal Violence [Impact Factor: 2.5; 5-year Impact Factor: 2.7]'
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "An updated examination of the predictors of running away from foster care in the United States and trends over ten years (2010-2019)"
+        link: "https://doi.org/10.1016/j.chiabu.2022.105689"
+        authors: Branscum, C. & Richards, T.N.
+        conference: "Child Abuse & Neglect [Impact Factor: 4.863]"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "https://doi.org/10.1016/j.chiabu.2022.105689"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+    
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+
+
 
 skills:
     title: Skills &amp; Proficiency
