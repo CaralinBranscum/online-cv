@@ -69,12 +69,14 @@ education:
             - Bullet point
             - Bullet point
 
-interests: 
+experiences: 
     title: Interests 
     info: 
         details: |
             - Example
             - Example
+
+            
 experiences:
     title: Highlighted Experiences
     info:
