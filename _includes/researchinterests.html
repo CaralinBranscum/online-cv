@@ -12,17 +12,6 @@
   {% for researchinterests in researchinterests.info %}
   <div class="item">
 
-    <div class="meta">
-
-      <div class="upper-row">
-        <h3 class="job-title">{{ researchinterests.role }}</h3>
-        <div class="time">{{ researchinterests.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ researchinterests.company }}</div>
-
-    </div><!--//meta-->
-
     {% if researchinterests.details %}
     <div class="details">
       {{ researchinterests.details | markdownify }}
