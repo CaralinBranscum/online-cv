@@ -69,11 +69,11 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Highlighted Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Doctoral Candidate
+        time: 2020 - Present
+        company: University of Nebraska at Omaha
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
