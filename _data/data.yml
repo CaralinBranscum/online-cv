@@ -207,10 +207,10 @@ oss:
 
 publications:
     title: Publications
-    intro: |
+    #intro: |
       #You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
     papers:
       - title: Examining the relationship between type of sexual misconduct, reporting source, complainant/respondent affiliation and case resolution for sexual misconduct reported to Title IX coordinators. 
         link: "https://doi.org/10.1177/08862605231178360"
