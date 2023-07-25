@@ -68,6 +68,13 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
+interests: 
+    title: Interests 
+    info: 
+        details: |
+            - Example
+            - Example
 experiences:
     title: Highlighted Experiences
     info:
