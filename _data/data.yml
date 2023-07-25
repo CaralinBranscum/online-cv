@@ -231,22 +231,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: SPSS
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Atlas.TI
         level: 95%
+        
+      - name: STATA
+        level: 88%
 
-      - name: Ruby on Rails
+      - name: TBA
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: TBA
         level: 60%
 
 footer: >
